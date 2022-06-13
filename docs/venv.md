@@ -10,3 +10,21 @@ Para criar um ambiente virtual é preciso rodar o comando abaixo e logo depois �
 python3 -m venv venv
 source venv/bin/activate
 ```
+
+## Pip
+
+O pip é um sistema que gerencia pacotes na linguagem Python.
+
+Ou seja, ele faz buscas de pacotes na fonte padrão para pacotes e suas dependências – Python Package Index ([PyPI](https://pypi.org/)).
+
+Para instalar pacotes usamos o comando abaixo.
+
+```bash
+pip install nome-do-pacote
+```
+
+Ou caso seu projeto use um arquivo de requirements, basta usar o comando abaixo.
+
+```bash
+pip install requirements.txt
+```
