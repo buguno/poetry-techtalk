@@ -13,7 +13,7 @@ source venv/bin/activate
 
 ## Pip
 
-O pip é um sistema que gerencia pacotes na linguagem Python.
+O pip é um sistema que gerencia os pacotes Python.
 
 Ou seja, ele faz buscas de pacotes na fonte padrão para pacotes e suas dependências – Python Package Index ([PyPI](https://pypi.org/)).
 
